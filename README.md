@@ -27,10 +27,10 @@ JavaScript (Vanilla)	Handles portfolio logic, user inputs, and dynamic updates
 📁 Web-Sys-and-Tech
 
 │
-├── index.html        # Main webpage
-├── style.css         # Custom styles
-├── normalize.css     # CSS reset for cross-browser consistency
-└── script.js         # JavaScript logic for tracking and calculations
+├── index.html
+├── style.css    
+├── normalize.css
+└── script.js
 
 How It Works
 
