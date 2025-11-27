@@ -25,6 +25,7 @@ Bootstrap 5	Responsive layout, spacing, and UI components
 JavaScript (Vanilla)	Handles portfolio logic, user inputs, and dynamic updates
 📂 Project Structure
 📁 Web-Sys-and-Tech
+
 │
 ├── index.html        # Main webpage
 ├── style.css         # Custom styles
