@@ -28,8 +28,11 @@ JavaScript (Vanilla)	Handles portfolio logic, user inputs, and dynamic updates
 
 │
 ├── index.html
-├── style.css    
+
+├── style.css   
+
 ├── normalize.css
+
 └── script.js
 
 How It Works
