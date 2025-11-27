@@ -23,10 +23,13 @@ CSS3	Custom styling for fonts, layout, and visuals
 Normalize.css	Ensures consistent rendering across browsers
 Bootstrap 5	Responsive layout, spacing, and UI components
 JavaScript (Vanilla)	Handles portfolio logic, user inputs, and dynamic updates
+
 📂 Project Structure
+
 📁 Web-Sys-and-Tech
 
 │
+
 ├── index.html
 
 ├── style.css   
